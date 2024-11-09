@@ -1,0 +1,30 @@
+n = 3
+
+{A, M}
+
+A A A
+A A M
+A M A
+A M M
+M A A
+M A M
+M M A
+M M M
+
+n = 4
+
+AAAA
+AAAM
+AAMA
+AAMM
+AMAA
+AMAM
+AMMA
+AMMM
+MAAA
+MAAM
+MAMA
+MAMM
+
+
+Raspuns: c)
