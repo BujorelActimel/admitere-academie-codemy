@@ -1,0 +1,1 @@
+raspuns: A
