@@ -1,0 +1,4 @@
+NOT ((x MOD 2 = 0) AND (NOT ((y > x) AND (x MOD 7 ≠ 5)))), dacă x = 12 și y = 23?
+
+
+Raspnus: BC

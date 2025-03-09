@@ -1,0 +1,24 @@
+citeste n
+
+alfa <- 9
+beta <- 9
+gama <- 99999 //  in loc de -1
+
+p <- alfa
+
+repeta 
+
+    daca n % 10 < p SI n % 2 = 0 atunci
+        p <- n % 10
+    sf
+    n <- [n/10]
+
+pana cand n = 0
+
+daca p = beta atunci
+    p <- gama
+sf
+
+scrie p
+
+// Raspuns: B

@@ -1,0 +1,11 @@
+p <- 1
+u <- n
+cat timp p <= u executa
+    m <- [(p + u) / 2]
+    scrie v[m], ' '
+    daca v[m] > 1 atunci
+        u <- m - 1
+    altfel
+        p <- m + 1
+    sf
+sf

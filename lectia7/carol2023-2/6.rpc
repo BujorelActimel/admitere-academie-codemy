@@ -1,0 +1,35 @@
+// 1 .. 9 -> ct = 1
+
+// 10 -> 1
+// 11 -> 2
+
+// 12 -> 3
+
+// 10... 19 ct=2
+
+// 20..29 ct=3
+
+// 30..39 ct
+
+
+
+// 7 16 25 34 43 52 61 70 
+
+
+ct <- 0
+
+pentru x<-1,100 executa
+    n <- x
+    cat timp n > 9 repeta
+        n <- [n/10] + n % 10
+    sf
+
+    daca n = 7 atunci
+        scrie x
+        ct <- ct + 1
+    sf
+sf
+
+scrie ct
+
+// Raspuns: A
